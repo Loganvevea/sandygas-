@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------
+Created By: Kermit The Frog     Account: (https://www.gta5-mods.com/users/KermitTheFrog)
+---------------------------------------------------------------------------------
+How To Install:
+
+1.Open your folder where it contains all of your server files, documents etc
+2.Go to Resources and drag and drop the ymap folder into that resources folder.
+3.Last, go to your server.cfg and add start ymap
+
+NOW GO ENJOY YOUR NEW YMAP!
+
+NOTE: FROM NOW ON YOU CAN JUST ADD ANY YMAPS INTO YOUR YMAP-STREAM FOLDER AND THEN
+RESTART YOUR SERVER AND ENJOY THEM!
+
+---------------------------------------------------------------------------------
+
